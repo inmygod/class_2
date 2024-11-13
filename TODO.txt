@@ -1,0 +1,17 @@
+For Loop
+While Loop
+
+Lists
+List Method
+List Use Case
+
+Tuples
+Tuples Methods
+Tuples Use Case
+
+Sets
+Set Methods
+Sets Use Case
+
+Dictionary
+Dictionary MethodsDictionary Use Case
